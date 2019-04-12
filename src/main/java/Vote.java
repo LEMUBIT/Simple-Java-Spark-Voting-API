@@ -1,4 +1,5 @@
 public class Vote {
+    //Vote POJO
     String name;
 
     public String getName() {
